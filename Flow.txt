@@ -1,0 +1,31 @@
+--> npm create vite@latest ./ -- --template react
+
+    : Do all setup
+
+--> make public folder and copy all the files
+
+    : To use them in our project in efficient way create utils->index.js and paste the code
+
+--> make constants. These are predefined array of information like content or text which will be used later
+
+--> Change icon in index.html
+
+--> Now start with app.jsx
+
+    : Start with navbar
+    : Then Hero where we will add our first gsap
+
+        - npm i gsap @gsap/react
+    : Start highlight
+    
+--> After highlights.tsx use three.js for 3d model
+
+    : Make model.jsx
+
+-> To handle eslint error with three update plugins of .eslintrc.cjs to plugins: ['react-refresh', '@react-three'],
+
+--> After completing model.jsx use sentry
+
+    : npm install --save @sentry/react
+    : paste code in main.jsx
+    : follow sdk for react
