@@ -1,1 +1,0 @@
---> Vite, tailwindcss(https://tailwindcss.com/docs/guides/vite), thee, gsap, complex animation
